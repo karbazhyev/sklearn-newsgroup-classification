@@ -1,0 +1,8 @@
+584.0, 591.0, 590.0, 578.0, 593.0, 594.0, 598.0, 597.0, 600.0
+
+(5325, 65093)
+
+comp.sys.ibm.pc.hardware ['aspi4dos', 'st506', 'st412', 'f300r', 'scsiha', 'cyl', '1542b', 't560i', 'f301r', 'mbyets']
+comp.sys.mac.hardware ['powerbook', 'iisi', 'lciii', 'c650', 'adb', 'iifx', 'macuser', 'iivx', 'techworks', '68lc040']
+misc.forsale ['wolverine', 'sabretooth', 'liefeld', 'hobgoblin', 'punisher', 'de7', 'bagged', 'uccxkvb', 'keown', 'clv']
+soc.religion.christian ['liturgy', 'archbishop', 'clh', 'schismatic', 'coptic', 'sspx', 'tongues', 'augustine', 'excommunication', 'ahmadiyya']
